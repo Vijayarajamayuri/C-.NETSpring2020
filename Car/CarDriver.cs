@@ -13,7 +13,7 @@ namespace Car
 
             Console.WriteLine(c1);
             c1.vin = 989;
-            Console.WriteLine(c1.brand);
+            Console.WriteLine(c1);
         }
     }
 }

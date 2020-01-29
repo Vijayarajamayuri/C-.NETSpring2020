@@ -1,0 +1,11 @@
+C:\Users\ajay\source\repos\SampleDelegate01\bin\Debug\netcoreapp3.1\SampleDelegate01.exe
+C:\Users\ajay\source\repos\SampleDelegate01\bin\Debug\netcoreapp3.1\SampleDelegate01.deps.json
+C:\Users\ajay\source\repos\SampleDelegate01\bin\Debug\netcoreapp3.1\SampleDelegate01.runtimeconfig.json
+C:\Users\ajay\source\repos\SampleDelegate01\bin\Debug\netcoreapp3.1\SampleDelegate01.runtimeconfig.dev.json
+C:\Users\ajay\source\repos\SampleDelegate01\bin\Debug\netcoreapp3.1\SampleDelegate01.dll
+C:\Users\ajay\source\repos\SampleDelegate01\bin\Debug\netcoreapp3.1\SampleDelegate01.pdb
+C:\Users\ajay\source\repos\SampleDelegate01\obj\Debug\netcoreapp3.1\SampleDelegate01.csprojAssemblyReference.cache
+C:\Users\ajay\source\repos\SampleDelegate01\obj\Debug\netcoreapp3.1\SampleDelegate01.AssemblyInfoInputs.cache
+C:\Users\ajay\source\repos\SampleDelegate01\obj\Debug\netcoreapp3.1\SampleDelegate01.AssemblyInfo.cs
+C:\Users\ajay\source\repos\SampleDelegate01\obj\Debug\netcoreapp3.1\SampleDelegate01.dll
+C:\Users\ajay\source\repos\SampleDelegate01\obj\Debug\netcoreapp3.1\SampleDelegate01.pdb
