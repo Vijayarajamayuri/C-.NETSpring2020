@@ -1,0 +1,11 @@
+C:\Users\ajay\source\repos\NumberChangerWithDelegates\bin\Debug\netcoreapp3.1\NumberChangerWithDelegates.exe
+C:\Users\ajay\source\repos\NumberChangerWithDelegates\bin\Debug\netcoreapp3.1\NumberChangerWithDelegates.deps.json
+C:\Users\ajay\source\repos\NumberChangerWithDelegates\bin\Debug\netcoreapp3.1\NumberChangerWithDelegates.runtimeconfig.json
+C:\Users\ajay\source\repos\NumberChangerWithDelegates\bin\Debug\netcoreapp3.1\NumberChangerWithDelegates.runtimeconfig.dev.json
+C:\Users\ajay\source\repos\NumberChangerWithDelegates\bin\Debug\netcoreapp3.1\NumberChangerWithDelegates.dll
+C:\Users\ajay\source\repos\NumberChangerWithDelegates\bin\Debug\netcoreapp3.1\NumberChangerWithDelegates.pdb
+C:\Users\ajay\source\repos\NumberChangerWithDelegates\obj\Debug\netcoreapp3.1\NumberChangerWithDelegates.csprojAssemblyReference.cache
+C:\Users\ajay\source\repos\NumberChangerWithDelegates\obj\Debug\netcoreapp3.1\NumberChangerWithDelegates.AssemblyInfoInputs.cache
+C:\Users\ajay\source\repos\NumberChangerWithDelegates\obj\Debug\netcoreapp3.1\NumberChangerWithDelegates.AssemblyInfo.cs
+C:\Users\ajay\source\repos\NumberChangerWithDelegates\obj\Debug\netcoreapp3.1\NumberChangerWithDelegates.dll
+C:\Users\ajay\source\repos\NumberChangerWithDelegates\obj\Debug\netcoreapp3.1\NumberChangerWithDelegates.pdb
