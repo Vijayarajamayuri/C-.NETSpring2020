@@ -7,6 +7,7 @@ namespace SampleDelegate01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //Initializing delegate and passing a method
             printDel pdel = new printDel(printTime);
             pdel(5000);
 
@@ -15,6 +16,7 @@ namespace SampleDelegate01
 
         }
 
+        //delegate
         public delegate void printDel(int value);
 
         public static void printTime(int time)
