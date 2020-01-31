@@ -1,0 +1,11 @@
+C:\Users\S536881\Documents\dotnet\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.csprojAssemblyReference.cache
+C:\Users\S536881\Documents\dotnet\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\S536881\Documents\dotnet\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.AssemblyInfo.cs
+C:\Users\S536881\Documents\dotnet\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.exe
+C:\Users\S536881\Documents\dotnet\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.deps.json
+C:\Users\S536881\Documents\dotnet\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.runtimeconfig.json
+C:\Users\S536881\Documents\dotnet\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.runtimeconfig.dev.json
+C:\Users\S536881\Documents\dotnet\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.dll
+C:\Users\S536881\Documents\dotnet\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.pdb
+C:\Users\S536881\Documents\dotnet\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.dll
+C:\Users\S536881\Documents\dotnet\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.pdb
