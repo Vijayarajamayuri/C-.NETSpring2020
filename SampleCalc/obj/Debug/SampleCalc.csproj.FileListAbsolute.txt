@@ -1,0 +1,9 @@
+C:\Users\ajay\source\repos\SampleCalc\bin\Debug\SampleCalc.exe.config
+C:\Users\ajay\source\repos\SampleCalc\bin\Debug\SampleCalc.exe
+C:\Users\ajay\source\repos\SampleCalc\bin\Debug\SampleCalc.pdb
+C:\Users\ajay\source\repos\SampleCalc\obj\Debug\SampleCalc.csprojAssemblyReference.cache
+C:\Users\ajay\source\repos\SampleCalc\obj\Debug\SampleCalc.Form1.resources
+C:\Users\ajay\source\repos\SampleCalc\obj\Debug\SampleCalc.Properties.Resources.resources
+C:\Users\ajay\source\repos\SampleCalc\obj\Debug\SampleCalc.csproj.GenerateResource.cache
+C:\Users\ajay\source\repos\SampleCalc\obj\Debug\SampleCalc.exe
+C:\Users\ajay\source\repos\SampleCalc\obj\Debug\SampleCalc.pdb
