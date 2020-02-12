@@ -9,3 +9,14 @@ C:\Users\ajay\source\repos\BankAccountDemo\obj\Debug\netcoreapp3.1\BankAccountDe
 C:\Users\ajay\source\repos\BankAccountDemo\obj\Debug\netcoreapp3.1\BankAccountDemo.dll
 C:\Users\ajay\source\repos\BankAccountDemo\obj\Debug\netcoreapp3.1\BankAccountDemo.pdb
 C:\Users\ajay\source\repos\BankAccountDemo\obj\Debug\netcoreapp3.1\BankAccountDemo.csprojAssemblyReference.cache
+C:\Users\ajay\source\repos\C-.NETSpring2020\BankAccountDemo\bin\Debug\netcoreapp3.1\BankAccountDemo.exe
+C:\Users\ajay\source\repos\C-.NETSpring2020\BankAccountDemo\bin\Debug\netcoreapp3.1\BankAccountDemo.deps.json
+C:\Users\ajay\source\repos\C-.NETSpring2020\BankAccountDemo\bin\Debug\netcoreapp3.1\BankAccountDemo.runtimeconfig.json
+C:\Users\ajay\source\repos\C-.NETSpring2020\BankAccountDemo\bin\Debug\netcoreapp3.1\BankAccountDemo.runtimeconfig.dev.json
+C:\Users\ajay\source\repos\C-.NETSpring2020\BankAccountDemo\bin\Debug\netcoreapp3.1\BankAccountDemo.dll
+C:\Users\ajay\source\repos\C-.NETSpring2020\BankAccountDemo\bin\Debug\netcoreapp3.1\BankAccountDemo.pdb
+C:\Users\ajay\source\repos\C-.NETSpring2020\BankAccountDemo\obj\Debug\netcoreapp3.1\BankAccountDemo.csprojAssemblyReference.cache
+C:\Users\ajay\source\repos\C-.NETSpring2020\BankAccountDemo\obj\Debug\netcoreapp3.1\BankAccountDemo.AssemblyInfoInputs.cache
+C:\Users\ajay\source\repos\C-.NETSpring2020\BankAccountDemo\obj\Debug\netcoreapp3.1\BankAccountDemo.AssemblyInfo.cs
+C:\Users\ajay\source\repos\C-.NETSpring2020\BankAccountDemo\obj\Debug\netcoreapp3.1\BankAccountDemo.dll
+C:\Users\ajay\source\repos\C-.NETSpring2020\BankAccountDemo\obj\Debug\netcoreapp3.1\BankAccountDemo.pdb

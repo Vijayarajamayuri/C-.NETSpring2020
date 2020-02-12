@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ajay\\source\\repos\\BankAccountDemo\\BankAccountDemo.csproj": {}
+    "C:\\Users\\ajay\\source\\repos\\C-.NETSpring2020\\BankAccountDemo\\BankAccountDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ajay\\source\\repos\\BankAccountDemo\\BankAccountDemo.csproj": {
+    "C:\\Users\\ajay\\source\\repos\\C-.NETSpring2020\\BankAccountDemo\\BankAccountDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajay\\source\\repos\\BankAccountDemo\\BankAccountDemo.csproj",
+        "projectUniqueName": "C:\\Users\\ajay\\source\\repos\\C-.NETSpring2020\\BankAccountDemo\\BankAccountDemo.csproj",
         "projectName": "BankAccountDemo",
-        "projectPath": "C:\\Users\\ajay\\source\\repos\\BankAccountDemo\\BankAccountDemo.csproj",
+        "projectPath": "C:\\Users\\ajay\\source\\repos\\C-.NETSpring2020\\BankAccountDemo\\BankAccountDemo.csproj",
         "packagesPath": "C:\\Users\\ajay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajay\\source\\repos\\BankAccountDemo\\obj\\",
+        "outputPath": "C:\\Users\\ajay\\source\\repos\\C-.NETSpring2020\\BankAccountDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajay\\AppData\\Roaming\\NuGet\\NuGet.Config",
